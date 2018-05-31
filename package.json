@@ -17,7 +17,7 @@
     "type": "git",
     "url": "git@github.com:lida1984/react-tab.git"
   },
-  "main": "dist/ReactTab.js",
+  "main": "dist/react-tab.js",
   "devDependencies": {
     "autoprefixer": "^7.1.2",
     "babel-cli": "6.8.0",
