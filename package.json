@@ -1,7 +1,7 @@
 {
-  "name": "react-tab",
+  "name": "react-tab-pop",
   "version": "1.0.0",
-  "homepage": "https://github.com/lida1984/react-tab",
+  "homepage": "https://github.com/lida1984/react-tab-pop",
   "description": "react tabs components.",
   "keywords": [
     "react",
@@ -11,14 +11,14 @@
   ],
   "author": "Linda",
   "bugs": {
-    "url": "https://github.com/lida1984/react-tab/issues"
+    "url": "https://github.com/lida1984/react-tab-pop/issues"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:lida1984/react-tab.git"
+    "url": "git@github.com:lida1984/react-tab-pop.git"
   },
-  "main": "dist/react-tab.js",
+  "main": "dist/react-tab-pop.js",
   "devDependencies": {
     "autoprefixer": "^7.1.2",
     "babel-cli": "6.8.0",

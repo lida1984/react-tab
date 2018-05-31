@@ -2,7 +2,7 @@
 
 ## Install
 
-    npm install react-tab
+    npm install react-tab-pop
 
 ## Example
 
