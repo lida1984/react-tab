@@ -1,7 +1,7 @@
 {
   "name": "react-tab",
   "version": "1.0.0",
-  "homepage": "https://github.com/schovi/react-iscroll",
+  "homepage": "https://github.com/lida1984/react-tab",
   "keywords": [
     "react",
     "react-tab",
@@ -10,14 +10,14 @@
   ],
   "author": "Linda",
   "bugs": {
-    "url": "https://github.com/schovi/react-iscroll/issues"
+    "url": "https://github.com/lida1984/react-tab/issues"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:schovi/react-iscroll.git"
+    "url": "git@github.com:lida1984/react-tab.git"
   },
-  "main": "dist/react-iscroll.js",
+  "main": "dist/ReactTab.js",
   "devDependencies": {
     "autoprefixer": "^7.1.2",
     "babel-cli": "6.8.0",
